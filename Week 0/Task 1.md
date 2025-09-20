@@ -1,7 +1,6 @@
 
 ---
 
-````markdown
 # 🚀 VSD Workshop — Week 0: Toolchain Setup  
 
 This repository documents my **Week 0 journey** of the VSD RISC-V Workshop,  
