@@ -161,5 +161,3 @@ This forms the **complete open-source toolchain** for the RISC-V workshop, enabl
 ```
 
 ---
-
-```
