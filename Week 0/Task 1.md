@@ -2,11 +2,6 @@
 
 ![some image](https://github.com/Harish7377/RISC-V_VSD_Concept-to-Silicon/blob/main/Week%200/yosys.png)
 
-
-
-Got it ✅
-Here’s the **complete `README.md` file** in one piece — you can copy-paste it directly into your repo.
-
 ---
 
 ````markdown
@@ -24,9 +19,9 @@ Below you’ll find installation steps, screenshots (proof of working), and quic
 
 To set up the flow smoothly, ensure your system meets these minimum requirements:  
 
-- **OS:** Ubuntu 20.04 / 22.04 (64-bit)  
+- **OS:** Ubuntu 22.04 (64-bit)  
 - **RAM:** 4 GB (8 GB recommended for layout tools)  
-- **Disk Space:** ~10 GB free  
+- **Disk Space:**  GB free  
 - **Packages Required:** `git`, `make`, `gcc`, `g++`, `python3`, `tcl/tk`, `ncurses`  
 
 Before starting, always run:  
@@ -62,7 +57,7 @@ sudo make install
 
 ### ✅ Proof of Working
 
-![yosys](https://github.com/Harish7377/RISC-V_VSD_Concept-to-Silicon/blob/main/Week0/yosys.png)
+![yosys](https://github.com/Harish7377/RISC-V_VSD_Concept-to-Silicon/blob/main/Week%200/yosys.png)
 
 ---
 
@@ -79,7 +74,7 @@ sudo apt-get install iverilog
 
 ### ✅ Proof of Working
 
-![iverilog](https://github.com/Harish7377/RISC-V_VSD_Concept-to-Silicon/blob/main/Week0/iverilog.png)
+![iverilog](https://github.com/Harish7377/RISC-V_VSD_Concept-to-Silicon/blob/main/Week%200/iverilog.png)
 
 ---
 
@@ -96,7 +91,7 @@ sudo apt install gtkwave
 
 ### ✅ Proof of Working
 
-![gtkwave](https://github.com/Harish7377/RISC-V_VSD_Concept-to-Silicon/blob/main/Week0/gtkwave.png)
+![gtkwave](https://github.com/Harish7377/RISC-V_VSD_Concept-to-Silicon/blob/main/Week%200/gtkwave.png)
 
 ---
 
@@ -113,7 +108,7 @@ sudo apt install ngspice
 
 ### ✅ Proof of Working
 
-![ngspice](https://github.com/Harish7377/RISC-V_VSD_Concept-to-Silicon/blob/main/Week0/ngspice.png)
+![ngspice](https://github.com/Harish7377/RISC-V_VSD_Concept-to-Silicon/blob/main/Week%200/ngspice.png)
 
 ---
 
@@ -147,7 +142,7 @@ sudo make install
 
 ### ✅ Proof of Working
 
-![magic](https://github.com/Harish7377/RISC-V_VSD_Concept-to-Silicon/blob/main/Week0/magic.png)
+![magic](https://github.com/Harish7377/RISC-V_VSD_Concept-to-Silicon/blob/main/Week%200/magic.png)
 
 ---
 
@@ -157,11 +152,11 @@ By the end of **Week 0**, I successfully installed and tested all required tools
 
 | Tool               | Purpose                | Screenshot                                                                                            |
 | ------------------ | ---------------------- | ----------------------------------------------------------------------------------------------------- |
-| **Yosys**          | RTL Synthesis          | ![yosys](https://github.com/Harish7377/RISC-V_VSD_Concept-to-Silicon/blob/main/Week0/yosys.png)       |
-| **Icarus Verilog** | RTL Simulation         | ![iverilog](https://github.com/Harish7377/RISC-V_VSD_Concept-to-Silicon/blob/main/Week0/iverilog.png) |
-| **GTKWave**        | Waveform Visualization | ![gtkwave](https://github.com/Harish7377/RISC-V_VSD_Concept-to-Silicon/blob/main/Week0/gtkwave.png)   |
-| **Ngspice**        | Circuit Simulation     | ![ngspice](https://github.com/Harish7377/RISC-V_VSD_Concept-to-Silicon/blob/main/Week0/ngspice.png)   |
-| **Magic**          | VLSI Layout & GDSII    | ![magic](https://github.com/Harish7377/RISC-V_VSD_Concept-to-Silicon/blob/main/Week0/magic.png)       |
+| **Yosys**          | RTL Synthesis          | ![yosys](https://github.com/Harish7377/RISC-V_VSD_Concept-to-Silicon/blob/main/Week%200/yosys.png)       |
+| **Icarus Verilog** | RTL Simulation         | ![iverilog](https://github.com/Harish7377/RISC-V_VSD_Concept-to-Silicon/blob/main/Week%200/iverilog.png) |
+| **GTKWave**        | Waveform Visualization | ![gtkwave](https://github.com/Harish7377/RISC-V_VSD_Concept-to-Silicon/blob/main/Week%200/gtkwave.png)   |
+| **Ngspice**        | Circuit Simulation     | ![ngspice](https://github.com/Harish7377/RISC-V_VSD_Concept-to-Silicon/blob/main/Week%200/ngspice.png)   |
+| **Magic**          | VLSI Layout & GDSII    | ![magic](https://github.com/Harish7377/RISC-V_VSD_Concept-to-Silicon/blob/main/Week%200/magic.png)       |
 
 This forms the **complete open-source toolchain** for the RISC-V workshop, enabling me to move from **Verilog RTL → Synthesized Netlist → Simulation → Layout → GDS Export** 🚀.
 
