@@ -16,8 +16,8 @@ Below you’ll find installation steps, screenshots (proof of working), and quic
 To set up the flow smoothly, ensure your system meets these minimum requirements:  
 
 - **OS:** Ubuntu 22.04 (64-bit)  
-- **RAM:** 4 GB (8 GB recommended for layout tools)  
-- **Disk Space:**  GB free  
+- **RAM:** 4 GB 
+- **Disk Space:** 50 GB 
 - **Packages Required:** `git`, `make`, `gcc`, `g++`, `python3`, `tcl/tk`, `ncurses`  
 
 Before starting, always run:  
